@@ -80,16 +80,6 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
 
-# In[4]:
-
-
-BBC_list = []
-CBS_list = []
-CNN_list = []
-Fox_list = []
-NYT_list = []
-
-
 # In[5]:
 
 
