@@ -152,10 +152,10 @@ plt.savefig("TemperatureInWorldCities.png")
 plt.show()
 
 
-# In[8]:
+# In[13]:
 
 
-plt.scatter(humidity, temp_data, marker="o")
+plt.scatter(lat_data, humidity, marker="o")
 
 # Incorporate the other graph properties
 plt.title("Humidity in World Cities")
@@ -170,10 +170,10 @@ plt.savefig("HumidityInWorldCities.png")
 plt.show()
 
 
-# In[9]:
+# In[14]:
 
 
-plt.scatter(cloudy, temp_data, marker="o")
+plt.scatter(lat_data, cloudy, marker="o")
 
 # Incorporate the other graph properties
 plt.title("Cloudiness in World Cities")
@@ -188,10 +188,10 @@ plt.savefig("CloudinessInWorldCities.png")
 plt.show()
 
 
-# In[10]:
+# In[15]:
 
 
-plt.scatter(wind_speed, temp_data, marker="o")
+plt.scatter(lat_data, wind_speed, marker="o")
 
 # Incorporate the other graph properties
 plt.title("Wind Speed in World Cities")
@@ -206,7 +206,7 @@ plt.savefig("WindSpeedInWorldCities.png")
 plt.show()
 
 
-# In[11]:
+# In[ ]:
 
 
 # Open the file using "write" mode. Specify the variable to hold the contents
