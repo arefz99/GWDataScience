@@ -1,1 +1,1 @@
-this is for SQL HW10
+this is for SQL HW9 - week 10 
