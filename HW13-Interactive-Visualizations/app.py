@@ -28,7 +28,7 @@ def scrape():
     return redirect("/", code=302)
 =======
     collection.insert_one(mars)
-    return redirect("http://localhost:5000/", code=302)
+    return redirect("http://localhost:8000/", code=302)
 >>>>>>> parent of d7d53ad... Update app.py to use Flask-PyMongo; those changes plus Procfile and requirements needed to deploy to Heroku
 
 @app.route("/")
