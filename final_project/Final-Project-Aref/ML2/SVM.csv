@@ -1,0 +1,4 @@
+﻿Algorithm,Row Labels,Sum of Space - Filis,Sum of Flights Aref,Sum of Cal Housing Aref,Sum of Earthquakes - Aref,Sum of WI Breast Cancer - Andy,Sum of Stock - Andy,Sum of Titanic Filis
+Support Vector Machine,Test Score,0.29714577,0.98048,0.594573643,0.768106312,0.958041,0.092592,0.677130045
+Support Vector Machine,Train Score,1,0.999733333,1,0.793485486,0.969483,0.123456,0.898203593
+,Grand Total,1.29714577,1.980213333,1.594573643,1.561591798,1.927524,0.216048,1.575333638

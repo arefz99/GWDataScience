@@ -1,0 +1,3 @@
+﻿Algorithm,Variable Name,AlgorithmVariable,Titanic Filis,Space - Filis,Flights Aref,Cal Housing Aref,Earthquakes - Aref,WI Breast Cancer - Andy,Stock - Andy,Big Mart - Kapil,Useful (0/1)
+KNN,Train Score,9,0.838323353,0.548589874,99.94,99.98,79.46,0.920187,,,
+KNN,Test Score,10,0.695067265,0.276248726,99.93,99.96,75.08,0.965034,,,

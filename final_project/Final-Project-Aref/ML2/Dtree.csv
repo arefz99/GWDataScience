@@ -1,0 +1,4 @@
+﻿Algorithm,Row Labels,Sum of Space - Filis,Sum of Flights Aref,Sum of Cal Housing Aref,Sum of Earthquakes - Aref,Sum of WI Breast Cancer - Andy,Sum of Stock - Andy,Sum of Titanic Filis
+Decision Tree,Test Score,0.605504587,0.999156153,0.756146179,0.754152824,0.937062,0.086419,0.744394619
+Decision Tree,Train Score,1,0.99988142,0.854642145,0.854642145,1,0.205761,0.982035928
+,Grand Total,1.605504587,1.999037573,1.610788324,1.608794969,1.937062,0.29218,1.726430547
